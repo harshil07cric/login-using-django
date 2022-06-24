@@ -1,0 +1,71 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #427891;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    /* border: 2px solid black; */
+    /* background-color: #4278f5; */
+}
+h1{
+    color: black;
+    /* border: 2px solid black; */
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 5px 5px 15px -3px black;
+    padding: 10px;
+    /* text-align: center; */
+    margin: 50px;
+}
+.box{
+    /* margin-left: 585.4px;
+    margin-right: 585.4px; */
+    width: 300px;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px -3px black;
+    padding: 15px;
+    background-color: white;
+}
+p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 150%;
+}
+p.eroo{
+    display: ;
+}
+form input{
+    display: block;
+    margin: 15px;
+    height: 34px;
+    width: 230px;
+    font-weight: 700;
+    border-radius: 6px;
+    text-align: center;
+}
+form select{
+    display: block;
+    margin: 15px;
+    height: 34px;
+    width: 230px;
+    font-weight: 700;
+    border-radius: 6px;
+    text-align: center;
+}
+form button{
+    color: white;
+    display: block;
+    margin: 15px;
+    height: 34px;
+    width: 230px;
+    font-weight: 700;
+    border-radius: 6px;
+    text-align: center;
+    background-color: #4278f5;
+    cursor: pointer;
+}

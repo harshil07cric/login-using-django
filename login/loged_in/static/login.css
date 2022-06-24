@@ -1,0 +1,50 @@
+h1 {
+    font-size: 400%;
+    text-align: center;
+}
+
+.center img {
+    display: block;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+}
+
+.center h2 {
+    text-align: center;
+    font-size: 200%;
+}
+
+form input {
+    display: block;
+    height: 34px;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+form button {
+    display: block;
+    height: 34px;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 6px;
+    background-color: rgb(255, 179, 0);
+    font-weight: 700;
+}
+
+.links {
+    text-align: center;
+}
+p{
+    position: absolute;
+    bottom: 0%;
+    right: 43%;
+}
